@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CompteBancaire" version="4">
+  <OBJECT>
+    <ID name="CompteBancaire" mc="Infrastructure.DiagramSet" uid="4629474e-ac47-474c-bb74-f291f61141ac"/>
+    <PID name="CompteBancaire" mc="Standard.Project" uid="a363b5dd-3ffd-4cea-a804-dfda656c7d92"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[CompteBancaire]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

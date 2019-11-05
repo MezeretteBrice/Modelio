@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Lego" version="4">
+  <OBJECT>
+    <ID name="Lego" mc="Infrastructure.DiagramSet" uid="5e80f401-0aba-43c7-9494-e3ac59943d4c"/>
+    <PID name="Lego" mc="Standard.Project" uid="b44b0547-7bed-4531-a8d8-6fabb7bf343d"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Lego]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

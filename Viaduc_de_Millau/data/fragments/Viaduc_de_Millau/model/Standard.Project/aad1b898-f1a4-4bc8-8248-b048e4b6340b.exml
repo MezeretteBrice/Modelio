@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Viaduc_de_Millau" version="4">
+  <OBJECT>
+    <ID name="Viaduc_de_Millau" mc="Standard.Project" uid="aad1b898-f1a4-4bc8-8248-b048e4b6340b"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Viaduc_de_Millau]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="viaduc_de_millau" mc="Standard.Package" uid="eef783dc-5e04-4f3e-88b9-dbcfbd6f9ca8"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Viaduc_de_Millau" mc="Infrastructure.DiagramSet" uid="ed634534-ee11-458a-a906-5f0dd3204613"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

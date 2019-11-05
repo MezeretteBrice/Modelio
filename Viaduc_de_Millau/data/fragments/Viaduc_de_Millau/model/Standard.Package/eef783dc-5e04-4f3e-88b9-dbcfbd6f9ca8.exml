@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="viaduc_de_millau" version="4">
+  <OBJECT>
+    <ID name="viaduc_de_millau" mc="Standard.Package" uid="eef783dc-5e04-4f3e-88b9-dbcfbd6f9ca8"/>
+    <PID name="Viaduc_de_Millau" mc="Standard.Project" uid="aad1b898-f1a4-4bc8-8248-b048e4b6340b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[viaduc_de_millau]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Informer les usagers" mc="Standard.UseCase" uid="45a42079-5c2d-4802-93b2-d72ef68e35bb"/>
+        <COMPID name="Surveiller GTC" mc="Standard.UseCase" uid="11049207-91ca-452d-8d2a-cff3a3412e73"/>
+        <COMPID name="Exporter les données" mc="Standard.UseCase" uid="bcf65cb4-3644-4e24-9f01-8d9093f61c81"/>
+        <COMPID name="Acquérir les données" mc="Standard.UseCase" uid="59a60239-1916-4514-a1a0-b4c768895394"/>
+        <COMPID name="Surveiller ouvrage" mc="Standard.UseCase" uid="c8e1cc0d-f4d2-4b50-9294-c165f59e2a82"/>
+        <COMPID name="Usagers" mc="Standard.Actor" uid="fcd5b3c0-d346-4e82-9728-c0f301b01072"/>
+        <COMPID name="Opérateur GTC" mc="Standard.Actor" uid="a562f004-26ae-4e9b-bf8e-34ab1ee0353d"/>
+        <COMPID name="Technicien analyste" mc="Standard.Actor" uid="2a269768-755d-4cbf-ba67-fd21808ce6aa"/>
+        <COMPID name="Capteurs" mc="Standard.Actor" uid="e69af340-e67f-4446-9c57-2b917d479ca3"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="viaduc_de_millau Use Case diagram" mc="Standard.UseCaseDiagram" uid="8bdee0da-3349-4295-89e8-968b72b63f52"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

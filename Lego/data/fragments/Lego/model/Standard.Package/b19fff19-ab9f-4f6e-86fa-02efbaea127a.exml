@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="lego" version="4">
+  <OBJECT>
+    <ID name="lego" mc="Standard.Package" uid="b19fff19-ab9f-4f6e-86fa-02efbaea127a"/>
+    <PID name="Lego" mc="Standard.Project" uid="b44b0547-7bed-4531-a8d8-6fabb7bf343d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[lego]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Barre" mc="Standard.Class" uid="15070cbd-293c-4f5c-bc7c-eb6e018d0bea"/>
+        <COMPID name="BarreRonde" mc="Standard.Class" uid="15951f57-6779-4d67-a6f4-4d0fb5a2eb25"/>
+        <COMPID name="BarreCarre" mc="Standard.Class" uid="505b81a1-e9cc-4f81-a0d3-5e0c46465cb7"/>
+        <COMPID name="BarreRondeCreuse" mc="Standard.Class" uid="7503ba8f-c06f-4066-9714-472beba40217"/>
+        <COMPID name="BarreCarreCreuse" mc="Standard.Class" uid="f5032896-9065-4146-9acd-b592c4b07840"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagramme_Lego" mc="Standard.ClassDiagram" uid="befa448b-0965-4b7e-b070-f6ee15696ce9"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Distributeur_Automatique" version="4">
+  <OBJECT>
+    <ID name="Distributeur_Automatique" mc="Infrastructure.DiagramSet" uid="3f17197f-9e34-43cf-831c-21fcd9c97191"/>
+    <PID name="Distributeur_Automatique" mc="Standard.Project" uid="d005f4da-2717-4dd9-b561-fa8a21e605ca"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Distributeur_Automatique]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

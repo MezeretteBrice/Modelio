@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="instrument" version="4">
+  <OBJECT>
+    <ID name="instrument" mc="Standard.Package" uid="b4082129-ae6c-4e4f-a049-78f888b7679c"/>
+    <PID name="Instrument" mc="Standard.Project" uid="4ec6b39b-fbc7-4077-8eb8-4d6cffdcf942"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[instrument]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="InstrumentDeMusique" mc="Standard.Class" uid="97613ac0-aafc-4752-8212-68ee3b12ad14"/>
+        <COMPID name="InstrumentACordes" mc="Standard.Class" uid="4c70b4b2-57ba-4994-a996-9dde49770d20"/>
+        <COMPID name="Guitare" mc="Standard.Class" uid="ac39fccf-fab9-452d-a566-034b22eb54e2"/>
+        <COMPID name="InstrumentAPercussion" mc="Standard.Class" uid="852b23ee-f813-48fa-9bae-2d29b2082ee7"/>
+        <COMPID name="Batterie" mc="Standard.Class" uid="01555318-d40f-4245-84be-a3f70bb301b4"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Class diagra" mc="Standard.ClassDiagram" uid="4debe221-4ce3-490f-ace3-bd9f53c476cf"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

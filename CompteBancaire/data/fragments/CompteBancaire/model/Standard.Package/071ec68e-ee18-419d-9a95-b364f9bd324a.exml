@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="comptebancaire" version="4">
+  <OBJECT>
+    <ID name="comptebancaire" mc="Standard.Package" uid="071ec68e-ee18-419d-9a95-b364f9bd324a"/>
+    <PID name="CompteBancaire" mc="Standard.Project" uid="a363b5dd-3ffd-4cea-a804-dfda656c7d92"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[comptebancaire]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Compte" mc="Standard.Class" uid="fcc85bb9-21d1-41cd-90cc-d14ddf0e7ed2"/>
+        <COMPID name="CompteEpargne" mc="Standard.Class" uid="fc4650e2-076f-4d54-aaf8-4bc2ba8c861e"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="CompteBancaire" mc="Standard.ClassDiagram" uid="767d237b-eb79-4493-8b85-dc81fd434118"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
